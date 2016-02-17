@@ -1,12 +1,12 @@
 -
-  id: someone
-  name: Some Person
+  id: pasquale
+  name: Pasquale Citera
   avatar: /profile-pic.jpg
-  bio: this is some more information about the author.
-  facebook: https://www.facebook.com/someone
-  twitter: https://twitter.com/someone
-  instagram: http://instagram.com/someone
-  email: someone@something.com
+  bio: Composer.
+  facebook: https://www.facebook.com/paxxc
+  twitter: https://www.facebook.com/paxxxc
+  instagram: http://instagram.com/paxctr
+  email: info@citera.xyz
 -
   id: person
   avatar: /profile-pic.jpg
