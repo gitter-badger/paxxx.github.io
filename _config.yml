@@ -1,17 +1,20 @@
-name: Twister
-description: a powerful jekyll theme
-url: #place url
-gems: [jekyll-paginate]
+name: Pasquale Citera
+description: Composer
+url: http://citera.xyz
 baseurl: #place folder name if site is served in subfolder
+
+gems: [jekyll-paginate]
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
+
 tag_dir: /tag
 category_dir: /category
 author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /img
 author_default_avatar: /profile-pic.jpg
+
 tumblr: "#"
 pinterest: "#"
 instagram: "#"
@@ -118,4 +121,3 @@ prose:
           label: "YouTube Video ID"
           help: "Set post type to youtube in order for this to work. Do not set featured image, as the youtube video thumbnail will be used"
           type: "text"
-
