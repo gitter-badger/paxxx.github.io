@@ -1,4 +1,6 @@
 # Twister
+
+[![Join the chat at https://gitter.im/Paxxx/paxxx.github.io](https://badges.gitter.im/Paxxx/paxxx.github.io.svg)](https://gitter.im/Paxxx/paxxx.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![twister preview](/img/twister_preview_big.jpg)
 
 ## Multimedia
